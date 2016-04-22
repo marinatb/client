@@ -1,2 +1,2 @@
 # client
-MarinaTB client software
+MarinaTB web client
